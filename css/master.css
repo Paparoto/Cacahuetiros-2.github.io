@@ -1,0 +1,194 @@
+html{
+  font-family: cursive;
+  background: url(../images/bg-header2.png);
+}
+
+h1{
+  color: white;
+  font-size: 100px;
+  font-family: cursive;
+}
+
+.titre_principal{
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+h2{
+  color: white;
+  margin-left: 400px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.lien_prix{
+  color: white;
+  margin-left: 450px;
+  background-color: rgba(88, 41, 0, 0.5);
+  font-size: 25px;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  backface-visibility: 0.5;
+}
+
+.lien_prix:hover{
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+footer{
+  color:white;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  padding-top:50px;
+  height:50px;
+}
+
+.retour{
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 20px;
+  width: 100px;
+}
+
+.retour_image{
+  width: 25px;
+  height: 15px;
+}
+
+.retour:hover{
+  background-color: black;
+  color: white;
+}
+
+/*
+        Style Personalisé de la page sur les prix
+                      \/
+*/
+
+.page_prix{
+  backface-visibility: visible;
+}
+
+.titre_page_prix{
+  margin-left: 450px;
+}
+
+.all_price{
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-left: 300px;
+}
+
+.prix{
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.prix:hover{
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.prix_des{
+  color: white;
+  font-size: 20px;
+  float: right;
+  margin-right: 400px;
+  margin-top: 100px;
+}
+
+.texte_prix{
+  margin-left: 75px;
+  color: white;
+  font-size: 30px;
+}
+
+.image_prix{
+  width: 200px;
+  padding: 10px;
+}
+
+.image_vente{
+  width: 300px;
+}
+
+.presentation{
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-left: 300px;
+}
+
+.vente_des{
+  color: black;
+  font-size: 20px;
+  float: right;
+  margin-right: 300px;
+  margin-top: 100px;
+}
+
+/*
+    PRIX 1
+*/
+.titre_vente1{
+  color: white;
+  font-size: 50px;
+  margin-left: 300px;
+}
+
+/*
+    PRIX 2
+*/
+.titre_vente2{
+  color: white;
+  font-size: 50px;
+  margin-left: 400px;
+}
+
+/*
+    PRIX 3
+*/
+.titre_vente3{
+  color: white;
+  font-size: 50px;
+  margin-left: 300px;
+}
+
+/*
+    PRIX 4
+*/
+.titre_vente4{
+  color: white;
+  font-size: 50px;
+  margin-left: 400px;
+}
+
+/*
+    PRIX 5
+*/
+.titre_vente5{
+  color: white;
+  font-size: 50px;
+  margin-left: 400px;
+}
+
+/*
+    PRIX 6
+*/
+.titre_vente6{
+  color: white;
+  font-size: 50px;
+  margin-left: 400px;
+}
+
+/*
+    PRIX 7
+*/
+.titre_vente7{
+  color: white;
+  font-size: 50px;
+  margin-left: 400px;
+}

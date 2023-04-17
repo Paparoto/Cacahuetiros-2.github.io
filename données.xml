@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <Sheet1>
+        <Numéro_vente>1</Numéro_vente>
+        <Nom>Curly aux cacahuètes</Nom>
+        <Prix>0.80</Prix>
+        <Description>Des curly aux cacahuètes de basse qualité</Description>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>2</Numéro_vente>
+        <Nom>Des vraies cacahuètes</Nom>
+        <Prix>1.20</Prix>
+        <Description>Des cacahuètes primitives</Description>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>3</Numéro_vente>
+        <Nom>Cacahuètes de qualité supérieure</Nom>
+        <Prix>2.50</Prix>
+        <Description>Des cacahuètes de meilleur qualité !</Description>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>4</Numéro_vente>
+        <Nom>Cacahuète en laiton</Nom>
+        <Prix>8.99</Prix>
+        <Description>une cacahuète en laiton</Description>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>5</Numéro_vente>
+        <Nom>Cacahuète en Argent</Nom>
+        <Prix>45.0</Prix>
+        <Description>Une cacahuète en Argent</Description>
+        <Column5>donne bien sur un réveil</Column5>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>6</Numéro_vente>
+        <Nom>Cacahuète en Bronze</Nom>
+        <Prix>499.99</Prix>
+        <Description>Une cacahuète en Bronze</Description>
+        <Column5>rend bien sur la cheminée</Column5>
+    </Sheet1>
+    <Sheet1>
+        <Numéro_vente>7</Numéro_vente>
+        <Nom>Collier cacahuète en Or</Nom>
+        <Prix>1199.99</Prix>
+        <Description>Un collier cacahuète en Or 24 Carat</Description>
+    </Sheet1>
+</root>
