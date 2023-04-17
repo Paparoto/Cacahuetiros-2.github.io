@@ -40,7 +40,7 @@ function getPrix(nomProduit) {
             }
         }
     };
-    xhttp.open("GET", "donnees.xml", true);
+    xhttp.open("GET", "données.xml", true);
     xhttp.send();
 }
 getPrix("Cacahuète en Argent");
