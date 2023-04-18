@@ -27,7 +27,7 @@
     <Sheet1>
         <Numéro_vente>5</Numéro_vente>
         <Nom>Cacahuète en Argent</Nom>
-        <Prix>45.0</Prix>
+        <Prix>45.00</Prix>
         <Description>Une cacahuète en Argent</Description>
         <Column5>donne bien sur un réveil</Column5>
     </Sheet1>
