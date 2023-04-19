@@ -9,7 +9,7 @@ h1{
   font-family: cursive;
 }
 
-.titre_principal{
+#titre_principal{
   margin-left: 350px;
   margin-right: 350px;
 }
@@ -23,7 +23,7 @@ a{
   text-decoration: none;
 }
 
-.lien_prix{
+#lien_prix{
   color: white;
   margin-left: 450px;
   background-color: rgba(88, 41, 0, 0.5);
@@ -35,7 +35,7 @@ a{
   backface-visibility: 0.5;
 }
 
-.lien_prix:hover{
+#lien_prix:hover{
   background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -48,22 +48,17 @@ footer{
   height:50px;
 }
 
-.retour{
-  background-color: white;
-  color: black;
+#retour{
+  background-color : white;
+  color:black;
   padding: 10px;
   border-radius: 20px;
   width: 100px;
 }
 
-.retour_image{
+#retour_image{
   width: 25px;
   height: 15px;
-}
-
-.retour:hover{
-  background-color: black;
-  color: white;
 }
 
 /*
@@ -71,30 +66,30 @@ footer{
                       \/
 */
 
-.page_prix{
+#page_prix{
   backface-visibility: visible;
 }
 
-.titre_page_prix{
+#titre_page_prix{
   margin-left: 450px;
 }
 
-.all_price{
+#all_price{
   background-color: rgba(255, 255, 255, 0.7);
   margin-left: 300px;
 }
 
-.prix{
+#prix{
   padding: 10px;
   margin-left: 10px;
   margin-bottom: 20px;
 }
 
-.prix:hover{
+#prix:hover{
   background-color: rgba(0, 0, 0, 0.2);
 }
 
-.prix_des{
+#prix_des{
   color: white;
   font-size: 20px;
   float: right;
@@ -102,7 +97,7 @@ footer{
   margin-top: 100px;
 }
 
-.texte_prix{
+#texte_prix{
   margin-left: 75px;
   color: white;
   font-size: 30px;
@@ -117,12 +112,12 @@ footer{
   width: 300px;
 }
 
-.presentation{
+#presentation{
   background-color: rgba(255, 255, 255, 0.7);
   margin-left: 300px;
 }
 
-.vente_des{
+#vente_des{
   color: black;
   font-size: 20px;
   float: right;
@@ -131,64 +126,7 @@ footer{
 }
 
 
-/*
-    PRIX 1
-*/
-.titre_vente1{
-  color: white;
-  font-size: 50px;
-  margin-left: 300px;
-}
-
-/*
-    PRIX 2
-*/
-.titre_vente2{
-  color: white;
-  font-size: 50px;
-  margin-left: 400px;
-}
-
-/*
-    PRIX 3
-*/
-.titre_vente3{
-  color: white;
-  font-size: 50px;
-  margin-left: 300px;
-}
-
-/*
-    PRIX 4
-*/
-.titre_vente4{
-  color: white;
-  font-size: 50px;
-  margin-left: 400px;
-}
-
-/*
-    PRIX 5
-*/
-.titre_vente5{
-  color: white;
-  font-size: 50px;
-  margin-left: 400px;
-}
-
-/*
-    PRIX 6
-*/
-.titre_vente6{
-  color: white;
-  font-size: 50px;
-  margin-left: 400px;
-}
-
-/*
-    PRIX 7
-*/
-.titre_vente7{
+#titre_vente{
   color: white;
   font-size: 50px;
   margin-left: 400px;

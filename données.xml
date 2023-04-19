@@ -16,7 +16,7 @@
         <Numéro_vente>3</Numéro_vente>
         <Nom>Cacahuètes de qualité supérieure</Nom>
         <Prix>2.50</Prix>
-        <Description>Des cacahuètes de meilleur qualité !</Description>
+        <Description>Des cacahuètes de meilleure qualité !</Description>
     </Sheet1>
     <Sheet1>
         <Numéro_vente>4</Numéro_vente>
@@ -28,15 +28,13 @@
         <Numéro_vente>5</Numéro_vente>
         <Nom>Cacahuète en Argent</Nom>
         <Prix>45.00</Prix>
-        <Description>Une cacahuète en Argent</Description>
-        <Column5>donne bien sur un réveil</Column5>
+        <Description>Une cacahuète en Argent,donne bien sur un réveil</Description>
     </Sheet1>
     <Sheet1>
         <Numéro_vente>6</Numéro_vente>
         <Nom>Cacahuète en Bronze</Nom>
         <Prix>499.99</Prix>
-        <Description>Une cacahuète en Bronze</Description>
-        <Column5>rend bien sur la cheminée</Column5>
+        <Description>Une cacahuète en Bronze,rend bien sur la cheminée</Description>
     </Sheet1>
     <Sheet1>
         <Numéro_vente>7</Numéro_vente>
